@@ -1,9 +1,9 @@
 /**
  * DokuWiki Plugin inlineedit (Script Component)
  *
- * @author  lisps <lisps@users.noreply.github.com>
+ * @author  peterfromearth
  */
-jQuery(function(){
+jQuery(function(){ 
     //
     if(JSINFO && JSINFO['acl_write']) {
         var itemPos = jQuery('span.plugin__inlineedit[data-plugin-inlineedit-pageid="'+JSINFO['id']+'"]').addClass('active');
