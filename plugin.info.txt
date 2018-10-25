@@ -1,0 +1,7 @@
+base    inlineedit
+author  peterfromearth
+email   coder@peterfromearth.de
+date    2018-10-25
+name    inlineEdit
+desc    inline editing
+url     https://dokuwiki.org/plugin:inlineedit
